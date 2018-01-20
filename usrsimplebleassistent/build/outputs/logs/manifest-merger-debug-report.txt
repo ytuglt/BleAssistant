@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+MERGED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cad046ad9d48ea3cc589745932d38fed/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4244d191fd2128ab5431f4c0747ab056/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/449fad7d937af09113053d8075a45a9b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1a6d961c0aff4be2e63ffa0928adf7f1/AndroidManifest.xml:2:1-7:12
+MERGED from [:MaterialDesignDialoglibrary] /home/gonglt1/work/glt/usrsimplebleassistent/MaterialDesignDialoglibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/235ef67d949f263c23131dfe599197b0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8faf2a972956b65e76bab1e1e90a09c5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5b11f61812ecf98243f386c08829a612/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f4c1597dcc91bad465b8e34daaadbad8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ffd07fd6f441259b5a1d6163283f6823/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b1a189c778bd48a5d29f77ee85360375/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/32c30ce16ce08679442ab6646123dfa8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6b857d0fc8ed659e24158ccfbc72a5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6cbafaf595abb156cf64b644a68d805/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4edc279d27a55e09865de9e5b24723c9/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:6:9-53
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.BIND_VOICE_INTERACTION
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:19:5-83
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:19:22-81
+application
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:20:5-67:19
+MERGED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cad046ad9d48ea3cc589745932d38fed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cad046ad9d48ea3cc589745932d38fed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4244d191fd2128ab5431f4c0747ab056/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4244d191fd2128ab5431f4c0747ab056/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/449fad7d937af09113053d8075a45a9b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/449fad7d937af09113053d8075a45a9b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/235ef67d949f263c23131dfe599197b0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/235ef67d949f263c23131dfe599197b0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8faf2a972956b65e76bab1e1e90a09c5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8faf2a972956b65e76bab1e1e90a09c5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5b11f61812ecf98243f386c08829a612/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5b11f61812ecf98243f386c08829a612/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f4c1597dcc91bad465b8e34daaadbad8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f4c1597dcc91bad465b8e34daaadbad8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ffd07fd6f441259b5a1d6163283f6823/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ffd07fd6f441259b5a1d6163283f6823/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b1a189c778bd48a5d29f77ee85360375/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b1a189c778bd48a5d29f77ee85360375/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/32c30ce16ce08679442ab6646123dfa8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/32c30ce16ce08679442ab6646123dfa8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6b857d0fc8ed659e24158ccfbc72a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6b857d0fc8ed659e24158ccfbc72a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6cbafaf595abb156cf64b644a68d805/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6cbafaf595abb156cf64b644a68d805/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4edc279d27a55e09865de9e5b24723c9/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4edc279d27a55e09865de9e5b24723c9/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:25:9-41
+	android:debuggable
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:21:9-34
+	android:icon
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:22:9-38
+activity#com.usr.usrsimplebleassistent.MainActivity
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:29:9-37:20
+	android:screenOrientation
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:29:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:35:27-74
+service#com.usr.usrsimplebleassistent.BlueToothLeService.BluetoothLeService
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:38:9-40:38
+	android:enabled
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:40:13-35
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:39:13-66
+service#com.usr.usrsimplebleassistent.BlueToothLeService.SppConnectService
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:41:9-42:37
+	android:enabled
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:42:13-35
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:41:18-70
+activity#com.usr.usrsimplebleassistent.ServicesActivity
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:45:9-49:61
+	android:screenOrientation
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:48:13-60
+	android:theme
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:49:13-59
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:46:13-45
+activity#com.usr.usrsimplebleassistent.CharacteristicsActivity
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:51:9-54:61
+	android:screenOrientation
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:53:13-66
+	android:theme
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:54:13-59
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:51:19-58
+activity#com.usr.usrsimplebleassistent.GattDetailActivity
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:56:9-60:61
+	android:screenOrientation
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:58:13-29
+	android:windowSoftInputMode
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:59:13-54
+	android:theme
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:60:13-59
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:56:19-53
+activity#com.usr.usrsimplebleassistent.SPPBlueTooth.SppBlueThoothActivity
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:61:9-63:15
+	android:windowSoftInputMode
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:62:13-72
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:61:19-69
+activity#com.usr.usrsimplebleassistent.UpdateActivity
+ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:64:9-65:49
+	android:theme
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:65:13-47
+	android:name
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml:64:19-48
+uses-sdk
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cad046ad9d48ea3cc589745932d38fed/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cad046ad9d48ea3cc589745932d38fed/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4244d191fd2128ab5431f4c0747ab056/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4244d191fd2128ab5431f4c0747ab056/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/449fad7d937af09113053d8075a45a9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/449fad7d937af09113053d8075a45a9b/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1a6d961c0aff4be2e63ffa0928adf7f1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1a6d961c0aff4be2e63ffa0928adf7f1/AndroidManifest.xml:5:5-43
+MERGED from [:MaterialDesignDialoglibrary] /home/gonglt1/work/glt/usrsimplebleassistent/MaterialDesignDialoglibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:MaterialDesignDialoglibrary] /home/gonglt1/work/glt/usrsimplebleassistent/MaterialDesignDialoglibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/235ef67d949f263c23131dfe599197b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/235ef67d949f263c23131dfe599197b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8faf2a972956b65e76bab1e1e90a09c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8faf2a972956b65e76bab1e1e90a09c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5b11f61812ecf98243f386c08829a612/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5b11f61812ecf98243f386c08829a612/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f4c1597dcc91bad465b8e34daaadbad8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f4c1597dcc91bad465b8e34daaadbad8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ffd07fd6f441259b5a1d6163283f6823/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ffd07fd6f441259b5a1d6163283f6823/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b1a189c778bd48a5d29f77ee85360375/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b1a189c778bd48a5d29f77ee85360375/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/32c30ce16ce08679442ab6646123dfa8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/32c30ce16ce08679442ab6646123dfa8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6b857d0fc8ed659e24158ccfbc72a5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6b857d0fc8ed659e24158ccfbc72a5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6cbafaf595abb156cf64b644a68d805/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6cbafaf595abb156cf64b644a68d805/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4edc279d27a55e09865de9e5b24723c9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4edc279d27a55e09865de9e5b24723c9/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+		ADDED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+		INJECTED from /home/gonglt1/work/glt/usrsimplebleassistent/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cad046ad9d48ea3cc589745932d38fed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/cad046ad9d48ea3cc589745932d38fed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4244d191fd2128ab5431f4c0747ab056/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4244d191fd2128ab5431f4c0747ab056/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/449fad7d937af09113053d8075a45a9b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/449fad7d937af09113053d8075a45a9b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/235ef67d949f263c23131dfe599197b0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/235ef67d949f263c23131dfe599197b0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8faf2a972956b65e76bab1e1e90a09c5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8faf2a972956b65e76bab1e1e90a09c5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5b11f61812ecf98243f386c08829a612/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5b11f61812ecf98243f386c08829a612/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f4c1597dcc91bad465b8e34daaadbad8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f4c1597dcc91bad465b8e34daaadbad8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ffd07fd6f441259b5a1d6163283f6823/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ffd07fd6f441259b5a1d6163283f6823/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b1a189c778bd48a5d29f77ee85360375/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b1a189c778bd48a5d29f77ee85360375/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/32c30ce16ce08679442ab6646123dfa8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/32c30ce16ce08679442ab6646123dfa8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6b857d0fc8ed659e24158ccfbc72a5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6b857d0fc8ed659e24158ccfbc72a5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6cbafaf595abb156cf64b644a68d805/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6cbafaf595abb156cf64b644a68d805/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/44a159dc33375d29e0c55a7da0a444d9/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4edc279d27a55e09865de9e5b24723c9/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4edc279d27a55e09865de9e5b24723c9/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/gonglt1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4edc279d27a55e09865de9e5b24723c9/AndroidManifest.xml:26:13-58

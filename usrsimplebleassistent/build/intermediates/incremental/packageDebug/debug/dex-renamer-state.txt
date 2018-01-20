@@ -1,0 +1,4 @@
+#Sat Jan 20 17:53:00 CST 2018
+base.0=/home/gonglt1/work/glt/usrsimplebleassistent/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/gonglt1/work/glt/usrsimplebleassistent/build/intermediates/transforms/dexMerger/debug/0/classes.dex

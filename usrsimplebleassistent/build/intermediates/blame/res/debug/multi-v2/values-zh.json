@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/gonglt1/work/glt/usrsimplebleassistent/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/gonglt1/work/glt/usrsimplebleassistent/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "1,8,2,3,9,4,6,5,17,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,285,62,110,350,151,237,189,709,402",
+                        "endColumns": "43,63,46,39,50,36,44,46,56,47",
+                        "endOffsets": "56,344,104,145,396,183,277,231,761,445"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,163,210,250,301,338,383,430,487",
+                        "endColumns": "43,63,46,39,50,36,44,46,56,47",
+                        "endOffsets": "94,158,205,245,296,333,378,425,482,530"
+                    }
+                }
+            ]
+        }
+    ]
+}
